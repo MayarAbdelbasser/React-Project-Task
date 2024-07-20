@@ -1,0 +1,26 @@
+.productContain {
+  border: 1px solid #eee;
+  max-height: 100svh;
+  display: flex;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+.productContain img {
+  object-fit: contain;
+  width: 50%;
+  border-radius: 8px 8px 0px 0px;
+  -webkit-border-radius: 8px 8px 0px 0px;
+  -moz-border-radius: 8px 8px 0px 0px;
+  -ms-border-radius: 8px 8px 0px 0px;
+  -o-border-radius: 8px 8px 0px 0px;
+}
+.userData {
+  padding: 15px;
+}
+.heading {
+  font-weight: bold;
+  font-size: large;
+}

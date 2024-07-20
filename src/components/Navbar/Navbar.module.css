@@ -1,0 +1,18 @@
+.heading {
+  font-size: 40px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bolder;
+}
+
+.about {
+  font-size: 20px;
+  text-decoration: none;
+  color: #333;
+}
+.navContain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #333;
+}
